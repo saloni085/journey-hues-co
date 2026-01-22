@@ -29,7 +29,7 @@ export function Hero() {
             Welcome to Wanderlust Chronicles
           </span>
           <h1 className="font-display text-4xl md:text-6xl lg:text-7xl font-semibold text-primary-foreground leading-tight">
-            Exploring the world,
+            saloni
             <br />
             <span className="italic font-normal">one journey at a time</span>
           </h1>
